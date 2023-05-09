@@ -1,6 +1,6 @@
 ![Imagen del proyecto](https://github.com/eduardofierropro/Tinder/blob/main/assets/home1.png)
 
-# Tinder con HTML, BEM, SCSS y TYPESCRIPT
+# Copoycat: Tinder
 
 Este es un repositorio donde he programado desde cero la Home de Tinder directamente en Twitch.
 
